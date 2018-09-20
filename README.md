@@ -1,5 +1,5 @@
 # HailstoneSequence
-Small console application run Hailstone sequences
+Small console application to run Hailstone sequences
 
 ## example
 * if the current number is even divide it by 2
