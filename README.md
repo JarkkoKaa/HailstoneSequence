@@ -8,4 +8,5 @@ Small console application to run Hailstone sequences
 
 n = 3; 10, 5, 16, 8, 4, 2, 1, 4, 2, 1
 
-- Visual Studio 2017 project
+
+Visual Studio 2017 project
