@@ -7,3 +7,5 @@ Small console application to run Hailstone sequences
 * repeat until number is 1
 
 n = 3; 10, 5, 16, 8, 4, 2, 1, 4, 2, 1
+
+- Visual Studio 2017 project
